@@ -1,13 +1,13 @@
-package com.example.demo;
+package com.restful.resttest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootFourNewResourcesApplication {
+public class ResttestApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringBootFourNewResourcesApplication.class, args);
+		SpringApplication.run(ResttestApplication.class, args);
 	}
 
 }
